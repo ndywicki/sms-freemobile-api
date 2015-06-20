@@ -1,0 +1,29 @@
+{
+  "name": "sms-freemobile-api",
+  "version": "1.0.0",
+  "description": "A small library allow you to send SMS to your Free Mobile phone",
+  "main": "sms-freemobile-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndywicki/sms-freemobile-api.git"
+  },   
+  "keywords": [
+    "FreeMobile",
+	"SMS",
+	"API"
+  ],
+  "author": "Nicolas Dywicki <nicolas.dywicki@gmail.com>",
+  "licenses": [
+    {
+      "type": "GNU LGPL v3",
+      "url": "https://github.com/ndywicki/sms-freemobile-api/blob/master/LICENSE.md"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/ndywicki/sms-freemobile-api/issues"
+  },
+  "homepage": "https://github.com/ndywicki/sms-freemobile-api#readme"
+}
